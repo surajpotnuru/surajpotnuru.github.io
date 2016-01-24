@@ -1,6 +1,8 @@
 #main{
 	height:100%;
 	background:url('../background.jpeg');
+	background-size:cover;
+	background-attachment:fixed;
 }
 #main-sub{
     height:100%;
@@ -28,12 +30,18 @@
 	color:#2196F3;
 	font-family:"Roboto";
 	font-size:45px;
-	font-weight:100;
+	font-weight:200;
 	padding-bottom:50px;
 	margin-bottom:50px;
-	border-bottom:1px solid grey;
-	width:20%;
-	margin-left:40%;
+	border-bottom:1px dashed grey;
+	width:80%;
+	margin-left:10%;
+}
+.small-roboto-title{
+	color:#2196F3;
+	font-family:"Roboto";
+	font-size:25px;
+	font-weight:300;
 }
 .center{
 	text-align:center;
@@ -41,3 +49,53 @@
 .my-image{
 	border-radius:50%;
 }
+li:nth-child(odd) {
+	font-weight:500;
+	color:grey;
+	font-size:15px;
+	margin:10px;
+}
+li:nth-child(even) {
+	font-weight:400;
+	font-size:15px;
+	margin-left:10px;
+	margin-bottom:20px;
+	padding-bottom:10px;
+	width:70%;
+	border-bottom:1px solid grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
