@@ -6,5 +6,16 @@
 .main-title{
 	text-align:center;
 	color:white;
-	font-family:'Vonique 92 Regular';
+	font-family:'Hand Made';
+}
+.subtitle{
+	text-align:center;
+	color:white;
+	font-family:'Segoe UI';
+	font-size:20px;
+	border-top:1px solid white;
+	width:20%;
+	margin-left:40%;
+	margin-top:30px;
+	padding-top:25px;
 }

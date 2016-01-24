@@ -11,8 +11,16 @@
   src: url('../sexyfonts/A HandMade Font.otf') format('opentype');
 }
 @font-face {
+  font-family: 'DK Hyggelig';
+  src: url('../sexyfonts/DK Hyggelig.otf') format('opentype');
+}
+@font-face {
   font-family: 'Calligraphy Rope';
   src: url('../sexyfonts/Calligraphy Rope.otf') format('opentype');
+}
+@font-face {
+  font-family: 'DK Katzenjammer';
+  src: url('../sexyfonts/DK Katzenjammer.otf') format('opentype');
 }
 @font-face {
   font-family: 'DK Katzenjammer';
