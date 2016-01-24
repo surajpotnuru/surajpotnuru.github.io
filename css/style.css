@@ -50,13 +50,13 @@
 .my-image{
 	border-radius:50%;
 }
-li:nth-child(odd) {
+.details-list li:nth-child(odd) {
 	font-weight:500;
 	color:grey;
 	font-size:15px;
 	margin:10px;
 }
-li:nth-child(even) {
+.details-list li:nth-child(even) {
 	font-weight:400;
 	font-size:15px;
 	margin-left:10px;
@@ -81,7 +81,12 @@ li:nth-child(even) {
 	font-size:15px;
 	margin:10px;
 }
-
+#footer{
+	margin-top:50px;
+	padding-top:50px;
+	background-color:#2196F3;
+	height:350px;
+}
 
 
 
