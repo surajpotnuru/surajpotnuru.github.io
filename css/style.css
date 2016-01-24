@@ -1,6 +1,10 @@
 #main{
+	height:100%;
+	background:url('../background.jpeg');
+}
+#main-sub{
     height:100%;
-	background-color:#2196F3;
+	background-color:rgba(33,150,243,0.4);
 	padding-top:200px;
 }
 .main-title{
@@ -18,4 +22,11 @@
 	margin-left:40%;
 	margin-top:30px;
 	padding-top:25px;
+}
+.big-roboto{
+	text-align:center;
+	color:#2196F3;
+	font-family:"Roboto";
+	font-size:45px;
+	font-weight:100;
 }
