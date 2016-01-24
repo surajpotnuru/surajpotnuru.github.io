@@ -69,8 +69,18 @@ li:nth-child(even) {
 	background-color:#F3EFE0;
 	padding-top:10px;
 }
-
-
+.title1{
+	font-weight:500;
+	color:black;
+	font-size:15px;
+	margin:10px;
+}
+.title2{
+	font-weight:300;
+	color:black;
+	font-size:15px;
+	margin:10px;
+}
 
 
 
