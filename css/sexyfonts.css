@@ -6,6 +6,15 @@
   font-family: 'Mad Rats';
   src: url('../sexyfonts/Mad Rats.ttf') format('truetype');
 }
+
+@font-face {
+  font-family: 'Univox';
+  src: url('../sexyfonts/univox.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'HURTM';
+  src: url('../sexyfonts/HURTM.ttf') format('truetype');
+}
 @font-face {
   font-family: 'Hand Made';
   src: url('../sexyfonts/A HandMade Font.otf') format('opentype');

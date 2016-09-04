@@ -32,17 +32,15 @@ window.onload = function () {
 				dataPoints: [
 				
 				{y: 90, label: "HTML"  },
-				{y: 95, label: "CSS(3)"  },
+				{y: 95, label: "CSS"  },
 				{y: 80, label: "jQuery"  },
-				{y: 70, label: "AJAX"  },
-				{y: 80, label: "Bootstrap"  },
-				{y: 90, label: "MaterializeCSS"  },
+				{y: 40, label: "API Development"  },
 				{y: 75, label: "PHP"  },
 				{y: 85, label: "MySQL"  },
-				{y: 50, label: "Django"  },
+				{y: 50, label: "Node"  },
 				{y: 80, label: "C"  },
 				{y: 85, label: "Java"  },
-				{y: 70, label: "Python"  },
+				{y: 50, label: "Python"  },
 				]
 			}
 			
